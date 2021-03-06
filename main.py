@@ -1,4 +1,3 @@
-
 password = "hello"
 user_input = input("Please enter your password: ")
 
@@ -14,6 +13,3 @@ while (password != user_input):
   
   
 print("Welcome!")
-
-
-
